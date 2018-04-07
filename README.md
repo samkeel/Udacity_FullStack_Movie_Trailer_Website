@@ -1,1 +1,2 @@
-# Udacity_FullStack_Movie_Trailer_Website
+## Project
+Using server-side code display a list of movies, including box art imagery and a movie trailer preview.
